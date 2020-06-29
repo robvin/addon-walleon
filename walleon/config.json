@@ -1,11 +1,12 @@
 {
   "name": "Walleon",
   "version": "beta",
+  "stage": "experimental",
   "slug": "walleon",
   "description": "The opionated control panel for Home Assistant",
   "url": "https://walleon.io",
   "startup": "application",
-  "arch": ["amd64"],
+  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "boot": "auto",
   "hassio_api": true,
   "hassio_role": "default",
