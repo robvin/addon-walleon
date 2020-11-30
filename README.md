@@ -1,4 +1,4 @@
-# Home Assistant Addon-on: Walleon
+# Home Assistant Add-on: Walleon
 
 The opinionated control panel for Home Assistant!
 
